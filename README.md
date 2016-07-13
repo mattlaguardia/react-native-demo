@@ -6,11 +6,11 @@
 
 ## Picture 1
 
-![Wire Frame](/Users/mattyspro/Desktop/Screen Shot 2016-07-11 at 6.13.46 PM.png)
+![Wire Frame](Screen Shot 2016-07-11 at 6.13.46 PM.png)
 
 ## Picture 2
 
-![Wire Frame](/Users/mattyspro/Desktop/Screen Shot 2016-07-11 at 6.30.21 PM.png)
+![Wire Frame](Screen Shot 2016-07-11 at 6.30.21 PM.png)
 
 ## React Components
 * Props => properties ex: [this.props.name]
